@@ -1,0 +1,16 @@
+{
+  "name": "weather-app",
+  "version": "1.0.0",
+  "description": "An applicaiton that displays the weather",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Logan Skousen",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.17.2",
+    "express": "^4.15.3",
+    "request": "^2.81.0"
+  }
+}
